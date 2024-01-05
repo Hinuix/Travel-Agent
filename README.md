@@ -19,5 +19,3 @@ The Travel Agent CBR project highlighted the flexibility and effectiveness of ca
 
 ## 5. Travel Agent Flow Chart Explained
 Explore the Travel Agent CBR system through a comprehensive flow chart, detailing the initiation, data parsing, user input, similarity calculation, and display of top-rated travel packages. The flow chart concludes with the option for users to modify preferences, ensuring a personalized and dynamic travel experience.
-
-Thank you for joining me on this CBR exploration, where AI meets adaptability, and past experiences shape future recommendations. - Milton Hinnant II 
